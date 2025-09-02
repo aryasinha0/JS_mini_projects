@@ -5,3 +5,6 @@
 
 ### ii. Temperature Converter
 - A simple web app built with HTML, CSS, Bootstrap, and JavaScript. It has three input fields for Celsius, Fahrenheit, and Kelvin. Changing any one field instantly updates the other two in real time. The project uses event listeners, event.target.id, parseFloat(), and .toFixed() for calculations, with Bootstrap styling for a clean layout.
+
+### iii. To-Do List app
+- A simple To-Do List application built with HTML, CSS, Bootstrap, and JavaScript. Users can add tasks, mark them as done/undone, and delete tasks. The app uses localStorage to save tasks so they persist even after refreshing the page.
